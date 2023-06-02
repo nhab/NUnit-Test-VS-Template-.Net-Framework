@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSIXProject1.2821b52b-c98d-4354-8cf7-3a240798e1b2" Version="1.0" Language="en-US" Publisher="Company" />
+        <Identity Id="VSIXProject1.654FB6AE-ACBA-4233-80B9-A53C0A118D6F" Version="1.0" Language="en-US" Publisher="Company" />
         <DisplayName>Nunit Project template .Net framework 4.x</DisplayName>
         <Description xml:space="preserve">Nunit Project template .Net framework 4.x and NUnit 3.x .VSIX</Description>
     </Metadata>
