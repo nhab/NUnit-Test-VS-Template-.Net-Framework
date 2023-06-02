@@ -1,5 +1,5 @@
-# NUnit VS template .Net Framework
-Two projects in the soultion,must be comipled seperately.
+# NUnit VS Template .Net Framework
+There are 2 projects in the soultion, which must be compiled seperately.
 
 The NUnit Test project outputs a .zip file on build,
 This .zip file is added to the second project,which Creates .VSIX Installer file.
