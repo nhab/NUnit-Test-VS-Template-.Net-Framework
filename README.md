@@ -1,0 +1,1 @@
+# NUnit VS template .Net Framework
